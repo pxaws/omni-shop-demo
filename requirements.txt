@@ -1,0 +1,6 @@
+flask==3.1.3
+gunicorn==26.2.0
+requests==2.34.2
+# Keep at 2.8.0: the OpenTelemetry SDK injected on the hosts bundles urllib3 2.8.0 and
+# turns itself off when the app loads a different version.
+urllib3==2.8.0

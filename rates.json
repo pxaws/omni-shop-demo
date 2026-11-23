@@ -1,0 +1,7 @@
+{
+  "USD": {"usd": "1", "decimals": 2},
+  "EUR": {"usd": "1.0832", "decimals": 2},
+  "GBP": {"usd": "1.2710", "decimals": 2},
+  "CAD": {"usd": "0.7140", "decimals": 2},
+  "IDR": {"usd": "0.000063", "decimals": 2}
+}
